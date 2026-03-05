@@ -19,6 +19,7 @@ function App() {
           <h1>Tarzınızı Profesyonellere Emanet Edin</h1>
           <p>Modern dokunuşlarla klasik şıklığın buluşma noktası.
             hepinizi bekliyoruz.
+            bu da rebase için olan değişiklik
           </p>
           <button className="cta-button">Randevu Al</button>
         </section>
