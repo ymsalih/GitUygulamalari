@@ -17,7 +17,9 @@ function App() {
         {/* SEO: Sayfada sadece bir tane h1 olmalıdır */}
         <section className="hero">
           <h1>Tarzınızı Profesyonellere Emanet Edin</h1>
-          <p>Modern dokunuşlarla klasik şıklığın buluşma noktası.</p>
+          <p>Modern dokunuşlarla klasik şıklığın buluşma noktası.
+            hepinizi bekliyoruz.
+          </p>
           <button className="cta-button">Randevu Al</button>
         </section>
 
