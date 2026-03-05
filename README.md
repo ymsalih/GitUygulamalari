@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 Berber Sitesi Geliştirme Notları
 bu da rebase değişikliği için 
+tekrar bir değişikik yaptım ben 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
