@@ -5,7 +5,7 @@ function App() {
     <div className="app-container">
       <header>
         <nav>
-          <div className="logo">✂️ Premium Berber</div>
+          <div className="logo">✂️ Premium emrullah günay Berber</div>
           <ul>
             <li><a href="#hizmetler">Hizmetlerimiz</a></li>
             <li><a href="#iletisim">İletişim</a></li>
