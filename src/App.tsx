@@ -4,8 +4,13 @@ function App() {
   return (
     <div className="app-container">
       <header>
+<<<<<<< HEAD
         <nav>
           <div className="logo">✂️ Premium emrullah günay Berber</div>
+=======
+        <nav>       {/* merge işlemi için bir değişiklik yaptım  */}
+          <div className="logo">✂️ Premium Berber</div>
+>>>>>>> mergedalı
           <ul>
             <li><a href="#hizmetler">Hizmetlerimiz</a></li>
             <li><a href="#iletisim">İletişim</a></li>
