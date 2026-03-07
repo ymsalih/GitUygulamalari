@@ -5,7 +5,7 @@ function App() {
     <div className="app-container">
       <header>
 
-        <nav>       {/* merge işlemi için bir değişiklik yaptım  */}
+        <nav>       {/* merge işlemi için bir değişiklik yaptım bunu da güncelledim. */}
           <div className="logo">✂️ Premium Berber</div>
 
           <ul>
