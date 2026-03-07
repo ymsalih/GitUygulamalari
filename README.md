@@ -3,7 +3,7 @@ Berber Sitesi Geliştirme Notları
 bu da rebase değişikliği için 
 tekrar bir değişikik yaptım ben 
 emrullah günay berber ismini değiştirdim 
-
+bu da main dalında eklendi maksat bakalım merge işlemi nasıl olcak 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
