@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app-container">
       <header>
-        <nav>
+        <nav>       {/* merge işlemi için bir değişiklik yaptım  */}
           <div className="logo">✂️ Premium Berber</div>
           <ul>
             <li><a href="#hizmetler">Hizmetlerimiz</a></li>
